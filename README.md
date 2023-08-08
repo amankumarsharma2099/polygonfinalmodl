@@ -20,4 +20,4 @@ Deploy on Mumbai Testnet
 npx hardhat run scripts/depoly.ts --network mumbai
 
 Author
-Syed Ubaid
+Aman Kumar
